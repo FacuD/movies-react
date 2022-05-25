@@ -20,7 +20,7 @@ export function MovieDetails() {
   const imageUrl = `https://image.tmdb.org/t/p/w500/${movie.poster_path}`;
   return (
     <div className={`${styles.container} ${styles.col}`}>
-      <img
+      <img loading="lazy"
         className={`${styles.col} ${styles.movieImage}`}
         src={imageUrl}
         alt={movie.title}

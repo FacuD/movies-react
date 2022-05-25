@@ -5,7 +5,7 @@ export function MovieCard({ movie }) {
   return (
     <li className={styles.movieCard}>
       <Link to={`/movies/${movie.id}`}>
-        <img
+        <img loading="lazy"
           className={styles.movieImage}
           src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
           alt={movie.title}
