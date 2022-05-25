@@ -1,6 +1,6 @@
 # Movies API
 Frontend application using The Movie Database API. Built with React ⚛️.
-[Try it out here 🙌.](https://tmdb-react.herokuapp.com/)
+[Try it out here 🙌.](https://movies-react-tmdb.herokuapp.com)
 # Installation
 1. Clone the whole project and/or unzip the file.
 2. Run the following in the root folder:
