@@ -14,4 +14,4 @@ Frontend application using The Movie Database API. Built with React ⚛️.
 
 ---
 
-![TODO list sample picture](src/assets/img/movies-app.png "Movies App Image")
+![Movies API sample picture](src/assets/img/movies-app.png "Movies App Image")
